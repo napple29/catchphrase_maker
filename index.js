@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const outputAffiliationCatchCopy = (content, name) => {
   const obj = {
     1: `【${content}に舞い降りた堕天使★${name}】`,
