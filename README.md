@@ -6,4 +6,5 @@ Suggest your catchphrase.
 
 # Usage
 `catchphrase_maker`
+
 Please choose an affiliation or a special skill and input what you chose & your name.
