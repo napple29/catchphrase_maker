@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/napple29/catchphrase_maker"
+    "url": "git+http://github.com/napple29/catchphrase_maker"
   },
   "keywords": [
     "catchphrase"
@@ -16,9 +16,9 @@
   "author": "Haruna <snwxxx29@gmail.com> (https://twitter.com/napple29)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/napple29/catchphrase_maker/issues"
+    "url": "http://github.com/napple29/catchphrase_maker/issues"
   },
-  "homepage": "https://github.com/napple29/catchphrase_maker#readme",
+  "homepage": "http://github.com/napple29/catchphrase_maker#readme",
   "dependencies": {
     "enquire": "^0.0.2"
   }
