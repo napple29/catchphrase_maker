@@ -1,6 +1,6 @@
 {
   "name": "catchphrase_maker",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Suggest your catchphrase",
   "main": "index.js",
   "bin": {
