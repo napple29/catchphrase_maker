@@ -3,6 +3,9 @@
   "version": "1.0.1",
   "description": "Suggest your catchphrase",
   "main": "index.js",
+  "bin": {
+    "catchphrase_maker": "./index.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
