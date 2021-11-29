@@ -1,0 +1,17 @@
+{
+  "name": "catchphrase_maker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "catchphrase"
+  ],
+  "author": "Haruna <snwxxx29@gmail.com> (https://twitter.com/napple29)",
+  "license": "ISC",
+  "dependencies": {
+    "enquire": "^0.0.2"
+  }
+}
